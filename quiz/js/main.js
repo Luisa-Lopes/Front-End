@@ -94,7 +94,7 @@ function chooseNum(tamanho,tema){
         case 'Mundo': 
             aleatorio = aleatorio 
             break
-        case 'Artes e Entreterimento':
+        case 'Artes e Entretenimento':
             aleatorio = aleatorio + 15
             break
         case 'Sociedade':
