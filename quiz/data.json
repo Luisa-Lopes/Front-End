@@ -1,6 +1,6 @@
 [
     {   "id": 1,
-    "tipo":"mundo",
+    "tema":"mundo",
         "pergunta": "A hora oficial do Brasil é atrasada quantas horas em relação ao horario de londres",
         "1": "Uma hora",
         "2": "Tres horas",
@@ -9,8 +9,8 @@
     },
 
     {
-     "id": 3,
-     "tipo":"mundo",
+     "id": 2,
+     "tema":"mundo",
      "pergunta": "Quem era o presidente do Brasil quando foi editado o AI-5? ",
      "1": "Tarso Dutra",
      "2": "Jose Costa Cavalcanti",
@@ -20,7 +20,7 @@
     
     {
      "id": 3,
-     "tipo":"mundo",
+     "tema":"mundo",
      "pergunta": "Após o desembarque, os passageiros têm sua bagagem usualmente inspecionada por funcionarios de qual órgão?",
      "1": "Alfandega",
      "2": "Receita Federal",
@@ -30,7 +30,7 @@
     
     {
      "id": 4,
-     "tipo": "mundo",
+     "tema": "mundo",
      "pergunta": "Em 2004, Tabaré Vasquez foi eleito presidente de qual país",
      "1": "Cuba",
      "2": "Uruguai" ,
@@ -40,7 +40,7 @@
     
     {
      "id": 5,
-     "tipo": "mundo",
+     "tema": "mundo",
      "pergunta": "Antes de ser eleito presidente, George W. Bush era governador e que estado norte-americano",
      "1":"Texas",
      "2":"Carolina do Norte",
@@ -50,7 +50,7 @@
     
     {
      "id": 6 ,
-     "tipo": "mundo",
+     "tema": "mundo",
      "pergunta":"Em 1947, o territorio da Índia foi dividido em duas partes pelos ingleses, dando origem  dois países a dois países a Índia e o ... ",
      "1":"Nepal",
      "2":"Paquistão",
@@ -60,7 +60,7 @@
     
     {
      "id": 7,
-     "tipo": "mundo",
+     "tema": "mundo",
      "pergunta": "Qual o jovem país asiático que ocupa parte leste de uma ilha e tem o portugues como uma de suas linguas oficiais?",
      "1": "Timor Leste",
      "2": "São Tomé e Príncipe",
@@ -70,7 +70,7 @@
     
     {
      "id": 8,
-     "tipo": "mundo",
+     "tema": "mundo",
      "pergunta": "Em que país Che Guevara foi morto?",
      "1":"Peru",
      "2": "Chile",
@@ -80,7 +80,7 @@
 
     {
         "id": 9,
-        "tipo":"mundo",
+        "tema":"mundo",
         "pergunta": "A Escandinavia se localiza no extremo norte de que continente?",
         "1": "Asia",
         "2": "Africa",
@@ -90,7 +90,7 @@
        
     {
         "id": 10,
-        "tipo":"mundo",
+        "tema":"mundo",
         "pergunta": "Os políticos de qual partido são conhecidos como tucanos",
         "1": "PSB",
         "2": "PMDB",
@@ -100,7 +100,7 @@
 
     {
         "id": 11 ,
-        "tipo":"mundo",
+        "tema":"mundo",
         "pergunta":"Quantas estrelas tem a bandeira norte americana?",
         "1": "40",
         "2": "60",
@@ -110,7 +110,7 @@
 
     {
         "id": 12,
-        "tipo":"mundo",
+        "tema":"mundo",
         "pergunta": "Quem assumiu a presidência do Brasil em 1940?",
         "1": "D.Pedro II",
         "2": "Deodoro da Fonseca",
@@ -120,7 +120,7 @@
 
     {
         "id": 13,
-        "tipo":"mundo",
+        "tema":"mundo",
         "pergunta": "Quem nasce em Monaco é?" ,
         "1": "Monacoense ",
         "2": "Monegasco",
@@ -130,7 +130,7 @@
 
     {
         "id": 14,
-        "tipo":"mundo",
+        "tema":"mundo",
         "pergunta": "Onde fica o chamado 'teto do mundo' ? ",
         "1": "Mar Morto",
         "2": "Tibete",
@@ -140,7 +140,7 @@
 
     {
         "id": 15,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Como é conhecido Alfredo Da Rocha Viana Filho, compositor da canção Carinhoso?",
         "1": "Musicista",
         "2": "Pixinguinha",
@@ -151,7 +151,7 @@
 
     {
         "id": 16,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Helena e O Alienista são obras de que escritor brasileiro?" ,
         "1": "Guimarães Rosa",
         "2": "Oswald de Andrade",
@@ -162,7 +162,7 @@
 
     {
         "id": 17,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Qual artista introduziu a ideia da ready-made como objeto da arte?",
         "1": "Marcel Duchamp",
         "2": "Pablo Picasso",
@@ -173,7 +173,7 @@
 
     {
         "id": 18,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Em Os Goonies, qual o nome do irmão Fratelli que vive acorrentado no porão?",
         "1": "Ploth",
         "2": "Sloth",
@@ -183,7 +183,7 @@
     },
     {
         "id": 19,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Nos quadrinho de X-men, quem é o grande inimigo de Wolverine? ",
         "1": "Colossus",
         "2": "Destrutor",
@@ -193,7 +193,7 @@
     },
     {
         "id": 20,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Cantigas de amor, maldizer e escárnio pertecem a que movimento literário? ",
         "1": "Trovadorismo",
         "2": "Arcadismo",
@@ -204,7 +204,7 @@
 
     {
         "id": 21,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Quem é o coelho xerife mais rápido do Oeste que dizia 'bing,bing,biinngg...'?",
         "1": "Coelho Blau Blau",
         "2": "Coelho Ricochete",
@@ -215,7 +215,7 @@
 
     {
         "id": 22,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "O significado deste estilo é 'irregular, contorcido, grotesco'.Ele nasceu sob a égide da contra reforma católica.De que estilo artístico estamos falando?",
         "1": "Cubismo",
         "2": "Expressionismo",
@@ -226,7 +226,7 @@
 
     {
         "id": 23,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Que banda de rock surgiu na década de 80 com o sucesso VOCÊ NÃO SOUBE ME AMAR?",
         "1": "Titãs",
         "2": "Barão Vermelho",
@@ -236,7 +236,7 @@
     },
     {
         "id": 24,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "De que obra de Graciliano Ramos fazem parte os personagens Fabiano,Sinhá Vitória e a cachorra Baleia ?",
         "1": "Vidas Secas",
         "2": "Linhas Tortas",
@@ -246,7 +246,7 @@
     },
     {
         "id": 25,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Em que poema épico são contadas as glórias e a coragem do povo lusitano,cruzando mares e desbravando terras?",
         "1": "Vila Rica",
         "2": "Os lusíadas",
@@ -257,7 +257,7 @@
 
     {
         "id": 26,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Qual nome do burrinho mexicano de Pepe Legal?",
         "1": "Pancho",
         "2": "Preguiçoso",
@@ -268,7 +268,7 @@
 
     {
         "id": 27,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "No desenho animado Speed Racer, qual era o nome do carro de Speed Racer?",
         "1": "Mach 5",
         "2": "Mach 4",
@@ -279,7 +279,7 @@
 
     {
         "id": 28,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Na novela GUERRA DOS SEXOS, que atores interpretam Charlo e Otávio, lembrados pela famosa cena da guerra das tortas?",
         "1": "Glória Menezes e Edson Celulari ",
         "2": "Fernanda Montenegro e Paulo Autran",
@@ -290,7 +290,7 @@
 
     {
         "id": 29,
-        "tipo":"arte e entreterimento",
+        "tema":"arte e entreterimento",
         "pergunta": "Quem dirigiu e protagonizou o filme italiana A Vida é bela ? ",
         "1": "Giustino Durano",
         "2": "Giorgio Cantarini",
@@ -301,7 +301,7 @@
 
     {
         "id": 30,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "O que quer dizer, em português, a expressão latina INFRA?",
         "1": "Acima, parte superior",
         "2": "Abaixo, parte inferior",
@@ -311,7 +311,7 @@
 
     {
         "id": 31,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Qual o nome do mais refinado e conhecido empório de luxo parisiense? ",
         "1": "Fauchon",
         "2": "Guy Laroche",
@@ -320,7 +320,7 @@
     },
     {
         "id": 32,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Quem é o famoso jornalista brasileiro que criou o bordão ISSO É UMA VERGONHA?",
         "1": "Alberto Dines",
         "2": "Jorge Pontual",
@@ -329,7 +329,7 @@
     },
     {
         "id": 33,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Que apresentadora foi substituída por Fátima Bernardes,em 1998, na apresentação do jornal nacional? ",
         "1": "Glória Maria",
         "2": "Lilian Witte Fibe",
@@ -338,7 +338,7 @@
     },
     {
         "id": 34,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Como ficou conhecida a fundadora da grife Channel, importante ícone da história da moda?",
         "1": "Coco Chanel",
         "2": "Scarpin Chanel",
@@ -347,7 +347,7 @@
     },
     {
         "id": 35,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Como é chamado o tradicional rocambole da culinária nordestina,normalmente recheado de goiabada ou doce de leite?",
         "1": "Bolo enrolado",
         "2": "Bolo recheado",
@@ -356,7 +356,7 @@
     },
     {
         "id": 36,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "O figurino de Catherine Deneuve,no lendário filme A BELA DA TARDE, foi idealizado por estilista,falecido em 2008?",
         "1": "Belle de Jour",
         "2": "Yves Saint Laurent",
@@ -365,7 +365,7 @@
     },
     {
         "id": 37,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Que país usou o selo dos postais pela primeira vez ?",
         "1": "Inglaterra",
         "2": "Portugal",
@@ -374,7 +374,7 @@
     },
     {
         "id": 38,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Qual o apelido de Al Capone, o mais famoso mafioso de todos os tempos, já retratado em diversos filmes?",
         "1": "CodyCross",
         "2": "Scarface",
@@ -383,7 +383,7 @@
     },
     {
         "id": 39,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Qual é o signo de quem nesceu no dia 8 de marco?",
         "1": "Aquário",
         "2": "Áries",
@@ -392,7 +392,7 @@
     },
     {
         "id": 40,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Qual é o acessorio de vestuário imortilizado por Rita Hayword no filme Gilda?",
         "1": "Luvas",
         "2": "Botas",
@@ -401,7 +401,7 @@
     },
     {
         "id": 41,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Bordeaux-Franca, Hunter Valley-Australia e Napa Valley-Estados Unidos sao famosas regiões produtoras de que tipo de bebida?",
         "1": "Cerveja",
         "2": "Vinhos",
@@ -410,7 +410,7 @@
     },
     {
         "id": 42,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Luiza Helena Trajano dirige que famosa rede de magazines nascida no interior paulista?",
         "1": "Magazine Joias",
         "2": "Magazine Luiza",
@@ -419,7 +419,7 @@
     },
     {
         "id": 43,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Terroi,Mistral e Enoteca Fasano são importadoras de que produto?",
         "1": "Vinhos",
         "2": "Roupas",
@@ -428,7 +428,7 @@
     },
     {
         "id": 44,
-        "tipo":"sociedade",
+        "tema":"sociedade",
         "pergunta": "Qual o famoso cantor e compositor brasileiro que só usa vestimentas brancas e azuis?",
         "1": "Caetano Veloso",
         "2": "Antonio Carlos Jobim",
