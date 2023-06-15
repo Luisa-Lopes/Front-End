@@ -84,7 +84,7 @@ var usado = [] //Array com todos os número que já usaram
 function chooseNum(tamanho,tema){
   let aleatorio = Math.floor(Math.random()*tamanho + 1)
 
-  while((usado.indexOf(aleatorio) != -1) || (aleatorio == undefined){
+  while((usado.indexOf(aleatorio) != -1) || (aleatorio == undefined)){
     aleatorio = Math.floor(Math.random()*tamanho + 1)   
   }
   usado.push(aleatorio)
