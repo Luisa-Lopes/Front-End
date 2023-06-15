@@ -84,13 +84,12 @@ var usado = [] //Array com todos os número que já usaram
 function chooseNum(tamanho,tema){
   let aleatorio = Math.floor(Math.random()*tamanho + 1)
 
-  if(usado.indexOf(aleatorio) != -1){
-    chooseNum(tamanho,tema)
+  while((usado.indexOf(aleatorio) != -1) || (aleatorio == undefined){
+    aleatorio = Math.floor(Math.random()*tamanho + 1)   
   }
-  else{
-      usado.push(aleatorio)
+  usado.push(aleatorio)
 
-      switch (tema) {
+  switch (tema) {
         case 'Mundo': 
             aleatorio = aleatorio 
             break
@@ -102,7 +101,6 @@ function chooseNum(tamanho,tema){
             break;
         }
       return aleatorio
-  }
 }
 
 const alternativa = document.querySelector("#alternativas")
